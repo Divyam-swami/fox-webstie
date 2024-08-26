@@ -1,0 +1,465 @@
+@media only screen and (max-width:450px){
+   .container{
+    height: 280px;
+   }
+
+    .header{
+        flex-direction: column;
+        height: 220px;
+        width: 100%;
+        top: 5px;
+    }
+
+    .nav{
+        width: 100%;
+    }
+
+    .btn{
+        left: 284px;
+        top: 6px;
+    }
+
+    .slider{
+        width: 100%;
+        justify-content: center;
+    }
+
+    .navbar{
+        width: 0%;
+    }
+
+    .slider ul{
+         display:none ;
+
+
+    }
+
+    .slider-image{
+        height: 300px;
+        width: 100%;
+    }
+
+  
+
+
+.slider-image h1{
+    font-size:20px ;
+}
+
+.slider-image p{
+    font-size: 8px;
+    padding-bottom: 5px;
+}
+
+.slider-image a{
+    padding: 10px;
+    font-size: 6px;
+    background-color: orange;
+    border-radius: 20px;
+
+}
+
+.slider-image-inner-text{
+    height: 80px;
+    width: 35%;
+    position: relative;
+    left: 50px;
+    top: 50px;
+}
+
+
+.slider-image-2{
+    height: 1000px;
+    flex-direction: column;
+    width: 100%;
+}
+
+.slider-image-2-inner-div{
+    height: 380px;
+    width: 100%;
+    background-color: #fd5f00;
+    margin: auto;
+
+}
+.slider-image-2-inner-div2{
+    height: 380px;
+    width: 100%;
+    background-color: #0d1128;
+    margin: auto;
+}
+.slider-image-2-inner-div-text{
+    height: 200px;
+    width: 80%;
+    margin: 25px 31px;
+    line-height: 1.5;
+}
+
+.slider-image-2-inner-div-text h3{
+    font-size: 18px;
+}
+.slider-image-2-inner-div-text p{
+    font-size: 12px;
+}
+
+.offer{
+    align-items: start;
+    height: 1250px;
+}
+
+.offer-image{
+  display: none;
+}
+.offer-inner{
+    width: 100%;
+    margin: 0;   
+
+}
+
+.offer-inner h2{
+    font-size: 28px;
+}
+
+.offer-inner p{
+    font-size: 14px;
+}
+
+.offer-inner-part2{
+    height: 1050px;
+    margin: 0;
+}
+
+.offer-inner-part2 h3{
+    font-size: 16px;
+}
+
+.offer-inner-part2 p{
+    font-size: 12px;
+}
+
+
+.col{
+    margin-top:0 ;
+    margin-left: 46px;
+}
+
+.sub-slider{
+    height: 750px;
+    background-position: center;
+    justify-content: start;
+}
+
+
+.sub-slider-img p{
+    margin: 0;
+    font-size: 12px;
+}
+
+.sub-slider-img h2{
+    margin: 0;
+    font-size: 30px;
+}
+
+
+.sub-slider-img img{
+      display: none;
+}
+
+.sub-slider-img-text{
+    margin: 0;
+}
+
+.sub-slider-data{
+    margin-bottom: 20px;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.sub-slider-data h2{
+    font-size: 28px;
+}
+
+.sub-slider-data span{
+    font-size: 12px;
+}
+
+.courses-offer{
+    padding: 0px 40px;
+}
+
+.courses{
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 2200px;
+}
+.courses-content{
+    height: 500px;
+    width: 80%;
+}
+
+.courses-content span{
+    font-size: 10px;
+}
+
+.course-name{
+    font-size: 24px;
+}
+
+.courses-content p{
+    font-size: 13px;
+}
+
+.course-btn{
+    font-size: 12px;
+    line-height: 2.4;
+}
+
+.courses-offer h1{
+    padding-top: 50px;
+    padding-bottom: 10px;
+    font-size: 25px;
+}
+
+.about-teachers{
+    height: 2800px;
+}
+
+.teachers-description{
+    width: 100%;
+}
+
+.teachers{
+    height: 2500px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+.teachers-detail{
+    width: 80%;
+   padding-top: 360px;
+}
+
+.teachers-description h1{
+    font-size: 25px;
+}
+
+.teachers-description p{
+    padding-top: 10px;
+    font-size: 14px;
+    width: 80%;
+    margin: auto;
+}
+
+.teachers-detail p{
+ font-size: 13px;
+}
+
+.teachers-detail span{
+    font-size: 10px;
+   }
+
+.teachers-detail h2{
+   font-size: 16px;
+}
+
+.form{
+    height: 940px;
+    width: 100%;
+    background-position: left;
+}
+
+.form-internal{
+    margin: 0;
+    padding: 15px;
+    width: 100%;
+}
+
+.form-internal h1{
+    font-size: 40px;
+    padding-bottom:10px ;
+}
+
+.form-internal p{
+    font-size: 14px;
+    width: 100%;
+    padding: 0px 0px 0px 5px;
+}
+.form-internal select{
+    width: 100%;
+}
+.form-internal input{
+    width: 100%;
+}
+
+.blog-container{
+    height: 2100px;
+    width: 100%;
+    padding: 0;
+}
+
+.blog{
+    margin: 0;
+    width: 100%;
+    padding: 0;
+    padding-top: 50px;
+}
+
+.blog h1{
+    font-size: 30px;
+
+}
+
+.blog p{
+   font-size: 14px;
+   padding: 0px 30px 0px 30px;
+}
+.blog-columns{
+    flex-direction: column;
+    height: 1806px;
+    width: 93%;
+}
+
+.blog-col{
+    width: 100%;
+}
+
+.review-container{
+    height: 630px;
+    width: 100%;
+    padding: 0;
+}
+
+.review{
+    height: 200px;
+    width: 100%;
+    margin: 0;
+    font-size: 14px;
+    padding: 0;
+    padding: 20px 20px 0px 20px;
+}
+
+.review h1{
+    font-size: 20px;
+}
+
+.student-review{
+    width: 100%;
+    padding: 0;
+}
+.rev{
+    height: 280px;
+    width: 95%;
+    padding: 0px;
+    margin-top: 70px;
+}
+
+.rev p{
+    padding-left:140px ;
+    font-size: 16px;
+    line-height: 2;
+    color: #666666;
+}
+
+.rev img{
+    height: 120px;
+    width: 110px;
+}
+
+.rev h6{
+    margin-left: 138px;
+}
+
+.rev pre{
+    margin-left: 138px;
+    font-size: 12px;
+    color: #666666;
+}
+
+.gallary{
+    height: 780px;
+    flex-direction: column;
+    
+    
+    
+
+}
+
+.img1{
+    height: 210px;
+    width: 100%;
+}
+
+.img2{
+    height: 210px;
+    width: 100%;
+}
+.img3{
+    height: 210px;
+    width: 100%;
+}
+.img4{
+    height: 210px;
+    width: 100%;
+}
+
+footer{
+    height: 1800px;
+    width: auto;
+    padding: 0;
+}
+
+.footer-col{
+    height: 400px;
+    width: 90%;
+    float: none;
+    margin: 0px;
+    margin: auto;
+}
+
+.end-text{
+    color: white;
+    margin: 0 ;
+    position: relative;
+    top: 80px;
+    text-align: center;
+}
+
+.footer-col-foot{
+    padding: 0;
+}
+
+.footer-blog{
+    width: 100%;
+}
+
+.footer-blog span{
+    left: 0;
+    left: 10px;
+    width: 100%;
+}
+
+.footer-blog a{
+    width: 70%;
+}
+
+.footer-col input{
+    margin-left: 40px;
+}
+
+.column{
+    height: 300px;
+}
+
+.footer-link{
+    top: 10px;
+    right: 70px;
+}
+
+.footer-list{
+    top: 1px;
+}
+
+
